@@ -1,1 +1,1 @@
-# GATE-2022-Prep---CS
+# GATE-2022-Prep CS
